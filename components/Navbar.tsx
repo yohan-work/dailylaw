@@ -7,6 +7,7 @@ export default function Navbar() {
     { href: '/civil', label: '민법' },
     { href: '/criminal', label: '형법' },
     { href: '/commercial', label: '상법' },
+    { href: '/labor', label: '근로기준법' },
     { href: '/summary', label: '요약' },
   ];
 
