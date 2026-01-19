@@ -106,3 +106,4 @@ export const ${law.type}Articles: LawArticle[] = ${JSON.stringify(articles, null
 
 console.log('\n모든 법률 파싱 완료!');
 
+// parsing v2 251215
